@@ -25,4 +25,4 @@ Command examples for 437B, ( FA, LN, RA )
 
 ![image](https://user-images.githubusercontent.com/61689837/234523714-3e98d06d-82bc-449f-a249-30ed4c201d88.png)
 
-Those command datas send to devices on GPIB function (Düzenle ~)
+The commands are sent to the device with GPIB functions (Edit--)
