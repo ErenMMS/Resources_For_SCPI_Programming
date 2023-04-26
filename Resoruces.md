@@ -6,3 +6,7 @@ https://stackoverflow.com/questions/11232384/c-sharp-visual-studio-gpib-commands
 
 ### A playlist about GPIB Programming
 https://www.youtube.com/playlist?list=PLnfkOPGmgHZCuxJ5SAwOFAIHA4AwREKef
+
+
+##### Devices
+Power Meter, MultiMeter, SignalJenerators, Spectrum Analyzer
