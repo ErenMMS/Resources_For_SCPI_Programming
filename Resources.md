@@ -9,7 +9,7 @@ https://www.youtube.com/playlist?list=PLnfkOPGmgHZCuxJ5SAwOFAIHA4AwREKef
 
 
 ### Devices
-"Power Meter, MultiMeter, SignalJenerators, Spectrum Analyzer"
+"Power Meter, Multimeter, Signal Jenerators, Spectrum Analyzer, RF Reference Source"
 
 In order to program these devices, it is necessary for the programmers to possess knowledge of the device commands, which facilitate communication with the devices through GPIB. The programming guides for the devices provide access to the respective commands required for programming.
 
