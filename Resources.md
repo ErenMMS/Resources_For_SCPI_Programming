@@ -1,6 +1,9 @@
 ## C# Visual Studio GPIB Commands
 https://stackoverflow.com/questions/11232384/c-sharp-visual-studio-gpib-commands
 
+## NI-VISA .NET Library
+https://www.ni.com/en-tr/support/documentation/supplemental/15/national-instruments-visa--net-library.html#section--1105621981
+
 ## A playlist about GPIB Programming
 https://www.youtube.com/playlist?list=PLnfkOPGmgHZCuxJ5SAwOFAIHA4AwREKef
 
