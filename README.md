@@ -1,5 +1,5 @@
-# Resources_For_SCPI_Programming
-Research for SCPI Programming
+
+### Researches for SCPI Programming
 
 ## C# Visual Studio GPIB Commands
 https://stackoverflow.com/questions/11232384/c-sharp-visual-studio-gpib-commands
